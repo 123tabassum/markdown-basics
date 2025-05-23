@@ -11,6 +11,15 @@
      <u> text</>
      <tagname> text</tagname>
 ```
+### links
+```md
+[text](path)
+```
+Example
+```md
+[visit Google](https://www.google.com/)
+```
+previe [visit Google](https://www.google.com/)
 ## Menu Items (Unorder list)
 - Pizza 
 - Burger

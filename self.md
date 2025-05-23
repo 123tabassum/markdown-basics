@@ -1,5 +1,5 @@
 ## SYED TABASSUM KOUSAR
 
-- skills
-- portfolio
-- contact
+- [skills](./self.md)
+- [portfolio](https://sdtabassum.kousar@gmail.com)
+- [contact Information](./contact/details.md)
