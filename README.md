@@ -20,6 +20,19 @@ Example
 [visit Google](https://www.google.com/)
 ```
 previe [visit Google](https://www.google.com/)
+
+### Image
+```md
+  ![alternate text](image url)
+```
+
+Example
+```md
+![Google logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png)
+```
+preview
+![Google Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png)
+
 ## Menu Items (Unorder list)
 - Pizza 
 - Burger
